@@ -10,6 +10,6 @@ https://youtu.be/EqLkyu_K-fM
 
 
 Demo Images->
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/mauryarajeev/Chart_app/blob/main/Screenshot%20(10).png?raw=true)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
