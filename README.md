@@ -1,6 +1,6 @@
 # Chart_app
 To Start this app follow these step ->
-  1. run 'npm innstall' for install all dependencies
+  1. run 'npm install' for install all dependencies
   2. run 'npm start' start the app 
   3. open your browser 'localhost 3000' port
   4. see demo 
